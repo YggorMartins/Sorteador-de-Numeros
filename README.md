@@ -1,4 +1,6 @@
-<img width="1709" height="855" alt="image" src="https://github.com/user-attachments/assets/1363a106-3831-4237-bb73-b08809e414ad" />
+<img width="1277" height="793" alt="image" src="https://github.com/user-attachments/assets/01ef4bdf-4699-4966-ae0b-581eb790a55c" />
+<img width="388" height="841" alt="image" src="https://github.com/user-attachments/assets/3cfd9518-b007-46f6-86ad-6e058a80df31" />
+
 
 🎰 Sorteador de Números — HTML, CSS e JavaScript
 
